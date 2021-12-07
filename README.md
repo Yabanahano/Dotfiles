@@ -11,7 +11,7 @@
 ## 💻 System
 | Software           | Name                                                                                |
 |--------------------|-------------------------------------------------------------------------------------|
-| 🖥️ OS              | [ArchLinux](https://archlinux.org/)                                                   |
+| 🖥️ OS              | [NixOS](https://nixos.org/)                                                   |
 | 🚀 Window Manager  | [XMonad](https://xmonad.org/)                                                       |
 | 🎨 Color Scheme    | [Rosé Pine](https://github.com/rose-pine)                                           | 
 | 💾 Launcher        | [Rofi](https://github.com/davatorium/rofi)                                          |
@@ -25,8 +25,8 @@
 **TODO**
 
 ## ❔ Question
-### Why i leave nixos?
-As you know i love nixos for why i leave it bc nixos is doesn't work well for me and it has many problem.
+### Why i come back to nixos?
+As you know i love nixos
 
 ### Why XMonad?
 I love the way that xmonad write and config in haskell lang that make it easy to config.
