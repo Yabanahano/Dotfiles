@@ -1,6 +1,10 @@
 { config, pkgs, ... }:
 
 {
+  imports = [
+    ./config/nvim/nvim.nix # Todo
+  ];
+
   # Git
   programs.git = {
     enable = true;
