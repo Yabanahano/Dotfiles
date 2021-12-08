@@ -3,6 +3,7 @@
 {
   imports = [
     ./config/nvim/nvim.nix # Todo
+    ./config/zsh.nix
   ];
 
   # Git

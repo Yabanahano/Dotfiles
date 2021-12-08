@@ -20,6 +20,10 @@ let
     # Development
     lua git gcc python2 python3
   ];
+
+  homePackages = with pkgs; [
+    fzf
+  ];
 in
 {
   nixpkgs.config.allowUnfree = true;
@@ -31,4 +35,5 @@ in
   ];
 
   environment.systemPackages = regularPackages ++ haskellPackages;
+  home-manager.users.yabanahano.home.packages = homePackages;
 }
