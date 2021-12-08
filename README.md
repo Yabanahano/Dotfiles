@@ -6,6 +6,7 @@
 - [👇 Content](#-content)
 - [💻 System](#-system)
 - [🖼️ Gallery](#-gallery)
+- [🙏 Special Thanks](#-special-thanks)
 - [❔ Question](#-question)
 
 ## 💻 System
@@ -23,6 +24,15 @@
 
 ## 🖼️ Gallery
 **TODO**
+
+
+## 🙏 Special Thanks
+
+- [Notusknot](https://github.com/notusknot)
+- [Notusknot Nixos Dotfiles](https://github.com/notusknot/dotfiles-nix)
+- [Nixos Manual](https://nixos.org/manual/nixos/stable/)
+- [Nixos Discord Comunity](https://discord.gg/RbvHtGa)
+- [Lunarvim](https://github.com/LunarVim/LunarVim)
 
 ## ❔ Question
 ### Why i come back to nixos?
