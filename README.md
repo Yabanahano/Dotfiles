@@ -1,3 +1,5 @@
+# This dotfile is not my main dotfile. [CLICK HERE TO GO TO MAIN DOTFILES](https://github.com/Yabanahano/dotfiles)
+
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/68412503/120468937-61af9980-c3bf-11eb-99c5-e372df400147.png"/>
 </h1>
